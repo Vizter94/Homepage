@@ -1,0 +1,22 @@
+.header {
+    margin: 15px;
+}
+
+.header__header {
+    background-color: #ddf2e3;
+    color: black;
+    text-align: center;
+    border: 5px double black;
+}
+
+.header__button {
+    background-color: rgb(150, 173, 86);
+}
+
+.header__button:hover {
+    background-color: green;
+}
+
+.header__button:active {
+    background-color: red;
+}

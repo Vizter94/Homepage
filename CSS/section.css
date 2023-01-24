@@ -1,0 +1,40 @@
+.section__header {
+    color: crimson;
+    text-align: center;
+}
+
+.section__headerTab {
+    color: blue;
+    text-align: center;
+}
+
+.section__paragraph {
+    color: blue;
+    text-align: center;
+}
+
+.section__table {
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.section__tableCell {
+    border: 3px solid black;
+    padding: 5px;
+}
+
+.section__tableHeader {
+    background-color: blue;
+    color: #ddf2e3;
+}
+
+.section__tableHeaderGame {
+    background-color: chocolate;
+    color: black;
+}
+
+.section__tablePicture {
+    max-width: 150px;
+    margin: 0 auto;
+}

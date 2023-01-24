@@ -1,0 +1,27 @@
+.navigation__list {
+    list-style: none;
+}
+
+.navigation__listLink {
+    color: rgb(218, 22, 22);
+    text-shadow: 2px 2px 5px rgba(255, 0, 0, 0.603);
+    background-color: #d8f5b7;
+    text-decoration: none;
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 10%;
+}
+
+.navigation__listLink:hover {
+    color: blueviolet;
+    background-color: chartreuse;
+}
+
+.navigation__listLink:active {
+    color: darkblue;
+    background-color: crimson;
+}
+
+.navigation__listItem {
+    margin: 17px 0;
+}

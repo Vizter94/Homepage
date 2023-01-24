@@ -1,0 +1,26 @@
+html {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    max-width: 1500px;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    margin: 10px;
+    background-color: azure;
+}
+
+.darkTheme {
+    background-color: rgb(34, 0, 3);
+    color: rgb(247, 255, 254);
+}
+
+.main {
+    text-align: center;
+    border: 2px dotted black;
+}

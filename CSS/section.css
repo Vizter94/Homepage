@@ -23,13 +23,17 @@
     border: 3px solid black;
     padding: 5px;
 }
+.section__tableCell--white{
+    border: 3px solid rgb(255, 255, 255);
+    padding: 5px;
+}
 
-.section__tableHeader {
+.section__tableCell--header {
     background-color: blue;
     color: #ddf2e3;
 }
 
-.section__tableHeaderGame {
+.section__tableCell--header2{
     background-color: chocolate;
     color: black;
 }

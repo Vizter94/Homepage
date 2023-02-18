@@ -1,6 +1,6 @@
 {
     const hello = () => {
-    console.log("Witam Ciebie na mojej stronie, mam nadzieje że udzielisz mi uwag abym wiedział co robie źle , pozdrawiam :)")
+        console.log("Witam Ciebie na mojej stronie, mam nadzieje że udzielisz mi uwag abym wiedział co robie źle , pozdrawiam :)")
     }
     const changeBackground = () => {
         const header__button = document.querySelector(".header__button");
